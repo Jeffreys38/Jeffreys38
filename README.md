@@ -9,7 +9,6 @@ I specialize in weaving magic through design, obsessing over every tiny detail. 
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### ⚠️ Also, the stats may be incorrect because most of my repos and contributions are private.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
