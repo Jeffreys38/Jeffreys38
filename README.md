@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hi there 👋
 I'm Nevi – a coder passionate about crafting innovative solutions. My GitHub may seem quiet; many projects are private. I love diving into cutting-edge tech and collaborating on exciting projects. Let's connect and create something awesome! 🚀
 
 Strengths:
@@ -9,7 +9,7 @@ Also, the stats may be incorrect because most of my repos and contributions are 
 ### Mostly Used Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevi38&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
