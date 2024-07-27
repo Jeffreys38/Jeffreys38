@@ -1,4 +1,5 @@
 <pre>
+🌎 Languages: English, Vietnamese
 💻 Javascript • Typescript • Java • HTML/CSS/SCSS
 🧰 ReactJS • NodeJS • Blender
 🎮 Stella Blade • League of Legends • Epic Seven
