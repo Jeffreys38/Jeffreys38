@@ -7,11 +7,11 @@
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,php,html,css,cs)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,jet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ### Other Skills
 
