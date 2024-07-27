@@ -1,5 +1,4 @@
 <pre>
-👋 I am currently a fourth-year student at TDMU (Vietnam)
 💻 Javascript • Typescript • Java • HTML/CSS/SCSS
 🧰 ReactJS • NodeJS • Blender
 🎮 Stella Blade • League of Legends • Epic Seven
